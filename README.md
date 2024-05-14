@@ -28,4 +28,4 @@ This project simulates disk scheduling techniques. Disk scheduling is a strategy
 
 ## Screenshots of the following answer
 
-<img src="https://github.com/tirzagabriella/disk_scheduling_ForumWeek9/blob/main/Screenshot/disk.jpeg" width="700" height="400" />
+<img src="https://github.com/tirzagabriella/disk_scheduling_OS/blob/main/Screenshot/disk.jpeg" width="700" height="400" />
